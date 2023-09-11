@@ -1,0 +1,11 @@
+1. Create a list array called LA with five integer elements in it. Also create
+   a tuple arraay called TA with five integer elements in it.
+   In LA, multiply the third element from left by 10 and store
+   In TA, multiply the second element from left by 10 and store
+   Compare the results and show. Write your comment
+
+2. Create a list array called A with three integer elements
+   Create a list array called B with three integer elements
+   creat a new array C by adding A and B element by element
+   Try to write the code without for loop
+   

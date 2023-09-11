@@ -1,0 +1,17 @@
+Kaggle Tool
+Descriptive Analytics
+Pandas Library
+DataFrame (df)
+Structured vs Unstructured
+Pandas Lib is used for structured data
+2D, Exccel, .CSV - can be analyzed
+Data Preparation activities
+1.filtering
+2.Ordering
+3.Grouping
+4.Joining
+5.EDA - Exploratory Data Analysis
+6.Columns are Feature
+7. rows are  OBServations/samples
+8. Features are classified into continuous(numbers) and categorical(descriptive/string)
+
